@@ -6,15 +6,15 @@ Telegram: @Anonymous_Your_Dad
 
 # INSTALL MODULE ( MUST BE INSTALL ) 
 
-npm i net
-npm i http
-npm i http2
-npm i tls
-npm i cluster
-npm i url
-npm i crypto
-npm i colors
-npm i gradient-string
+★ npm i net
+★ npm i http
+★ npm i http2
+★ npm i tls
+★ npm i cluster
+★ npm i url
+★ npm i crypto
+★ npm i colors
+★ npm i gradient-string
 
 
 # PLZ ♥️
