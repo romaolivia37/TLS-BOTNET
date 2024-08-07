@@ -1,56 +1,38 @@
-# 🚀 Brown- Free DDoS Panel 🚀
-> Your terminal has to accept ANSI colors so that the colors can be seen<br>
-> Username: 1337<br>
-> Password: 1337<br>
+# 🚀 AHAD- FREE TLS BOTNET 🚀
 
-proxy update command proxy-crawl
-telegram: mertsoyan
+Proxy Update Command : proxy-crawl
+Telegram: @Anonymous_Your_Dad
 
 
-# Tree
-* [Read this Pls](#plz-%EF%B8%8F)
-* [Brown Info](Brown-Info)
-* [Setup](#Setup)
-* [Credits](#Credits)
-* [T.O.S](#TOS)
+# INSTALL MODULE ( MUST BE INSTALL ) 
 
-# Plz ♥️
-It would help me a lot if you give a star ⭐ to this repository.<br>
-One star from you = more desire to continue updating Brown
+npm i net
+npm i http
+npm i http2
+npm i tls
+npm i cluster
+npm i url
+npm i crypto
+npm i colors
+npm i gradient-string
 
-# BrownC2 Info
-- [x] Open Source
-- [x] Stable
-- [x] Simple
-- [x] Methods for Layer 4 and 7
-- [x] Bypass (CF, OVH, Etc)  
-- The source is not mine, I just made a few additions, the original owner of the source SkyWtkh
+
+# PLZ ♥️
+IT WOULD HELP ME A LOT IF YOU GIVE A STAR ⭐ TO THIS REPOSITORY.<BR>
+ONE STAR FROM YOU = MORE DESIRE TO CONTINUE UPDATING TLS BOTNET
 
 # Setup
 ```sh
-git clone https://github.com/rude1882/brownc2
-cd Stanley
-sudo python3 installer.py
-ulimit -n 999999
-chmod +x *
-sudo python3 brown.py
+git clone https://github.com/AHAD-VAU-KING/TLS-BOTNET
+cd TLS-BOTNET
+node TLS-V2.js URL TIME RPS THREADS proxy.txt
 ```
 
-# Credits
-```sh
-CNC Coded SkyWtkh
-MHProDev
-Empfaked
-im-federal
-R00tS3C
-(Methods <3)
-Z3NTL3
-(Inspiration <3)
-```
 
-# TOS:
+
+# WARNING:
 ```sh
-Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
-the creator is not responsible for the damage caused by the attacks. 
-remember: you are responsible for the attacks since this tool was created for educational purposes
+DO NOT ATTACK GOVERNMENT PAGES (.GOV/.GOB), EDUCATIONAL PAGES (.EDU) OR THE UNITED STATES DEPARTMENT OF DEFENSE (.MIL), 
+THE CREATOR IS NOT RESPONSIBLE FOR THE DAMAGE CAUSED BY THE ATTACKS. 
+REMEMBER: YOU ARE RESPONSIBLE FOR THE ATTACKS SINCE THIS TOOL WAS CREATED FOR EDUCATIONAL PURPOSES
 ```
